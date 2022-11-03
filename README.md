@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ignaciorreb
 - 👀 I’m interested in data processing tools
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on any python pandas project
+- 💞️ I’m looking to collaborate on any python project
 - 📫 How to reach me ...
 
 <!---
